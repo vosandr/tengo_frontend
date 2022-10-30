@@ -33,4 +33,4 @@ ___
 - [Modified to make it easier to work with this zettelkasten](https://www.youtube.com/watch?v=PiS3pRRj994&t=669s)
 # Contact with me
 - Telegram - https://t.me/Vosirandr
-- VK - vk.com/vosirandr
+- VK - https://vk.com/vosirandr
