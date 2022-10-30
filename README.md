@@ -27,8 +27,10 @@ This template is to be used for frontend applications.
 - `yarn start` — runs the app in the development mode
 - `yarn generate-css-types` — generates the CSS types for `tailwind-css`
 - `yarn update` — builds the code and pushes it to git remote
-
-
+___
 - [Base taken from here](https://github.com/Borodutch/frontend-starter)
 - [Idea taken from here](https://obsidian.md/)
 - [Modified to make it easier to work with this zettelkasten](https://www.youtube.com/watch?v=PiS3pRRj994&t=669s)
+# Contact with me
+- Telegram - https://t.me/Vosirandr
+- VK - vk.com/vosirandr
